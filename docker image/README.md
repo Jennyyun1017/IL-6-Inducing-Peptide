@@ -35,7 +35,7 @@ docker run --rm –v "YOUR_FOLDER:/app/data/output" takoyakiyee/il6-predictor:la
  3. Replace 🔴 **`YOUR_FIRST_FASTA_NAME.fasta`** and 🔴 **`YOUR_SECOND_FASTA_NAME.fasta`** with the exact name of your FASTA file.
 
 ### 📂 Output Files
-binary_vector.csv -- The prediction output in binary format (1 for positive and 0 for negative).
+predVector.csv -- The prediction output in binary format (1 for positive and 0 for negative).
 
 probability.csv -- The prediction probability estimate.
 

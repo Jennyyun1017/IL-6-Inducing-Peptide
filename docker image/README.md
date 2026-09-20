@@ -37,7 +37,7 @@ docker run --rm –v "YOUR_FOLDER:/app/data/output" takoyakiyee/il6-predictor:la
 ### 📂 Output Files
 predVector.csv -- The prediction output in binary format (1 for positive and 0 for negative).
 
-probability.csv -- The prediction probability estimate.
+probVector.csv -- The prediction probability estimate.
 
 ### Docker Hub
 Website: https://hub.docker.com/r/takoyakiyee/il6-predictor
